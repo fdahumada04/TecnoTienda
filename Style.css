@@ -1,0 +1,47 @@
+body {
+	background-image: url("fondo.JPG");
+	background-size: cover;
+	font-family: 'Noto Sans', sans-serif;
+}	
+#imag1 {
+	width: 260px;
+	height: 240px;
+	margin: 13px;
+	transition: all 0.5s;
+}
+#imag1:hover{
+	transform: scale(1.1);
+}
+.col-sm{
+	justify-content: space-around;
+	align-items: baseline;
+	margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.dropdown-item:link{color:#be0000; }         
+.dropdown-item:visited { color:#be0000; }    
+.dropdown-item:hover { background: #343a40; }  
+.dropdown-item:active { color: #be0000; }        
+}
+.col-sm2{
+	justify-content: space-around;
+}
+
+#sus{
+	margin-top: 30px;
+}
+
+#tex1{
+	margin-top: 30px;
+}
+
+#susnav{
+	margin-left: 700px;
+	
+
+}
+#Red{
+	margin-left: 10px;
+	
+}
